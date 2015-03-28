@@ -1,0 +1,137 @@
+# a cool fish shortcut for list files
+ll
+
+#a simple way to list files in long format
+ls -l
+
+# a simple way to list files
+ls
+
+#redirect output into a file
+history > moving_around.txt
+
+
+cd
+man less
+history | less
+history
+brew info twitterrific\
+brew info cask/twitterrific
+brew info Caskroom/cask/twitterrific
+brew search twitter
+ll
+ls -l
+ls
+history > moving_around.txt
+man less
+help
+h
+history | less
+history
+~
+subl
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+sudo apt-get install -y sublime-text-installer
+sudo apt-get check
+fish_update_completions
+cd Projects/
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'alegriaforman@gmail.com'
+fir config --global user.email 'alegriaforman@gmail.com'
+git config --global user.name 'Ali Forman'
+git --version
+sudo apt-get install -y git
+subl config.fish
+cd .config/fish
+exit
+cd $cd
+cd fish/
+cd .config
+ls -a
+sudo apt-get c
+sudo apt-get csudo apt-get check
+rm -r .git
+cd
+cd ..
+clear
+which ruby
+cd ali4man/
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:gitcore/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+ls -G
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+git status
+git branch
+git clean -fd
+git -q .ICEauthority
+git rm
+git rm .ICEauthority
+git clean .ICEauthority
+git clean
+ll
+history > moving_around.txt
+ls -l
+ls
+man less
+help
+h
+history | less
+history
+~
+subl
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+sudo apt-get install -y sublime-text-installer
+sudo apt-get check
+fish_update_completions
+cd Projects/
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'alegriaforman@gmail.com'
+fir config --global user.email 'alegriaforman@gmail.com'
+git config --global user.name 'Ali Forman'
+git --version
+sudo apt-get install -y git
+subl config.fish
+cd .config/fish
+exit
+cd $cd
+cd fish/
+cd .config
+ls -a
+sudo apt-get c
+sudo apt-get csudo apt-get check
+rm -r .git
+cd
+cd ..
+clear
+which ruby
+cd ali4man/
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:gitcore/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+ls -G
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+git status
+git branch
+git clean -fd
+git -q .ICEauthority
+git rm
+git rm .ICEauthority
+git clean .ICEauthority
+git clean
