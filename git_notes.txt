@@ -1,0 +1,7 @@
+master branch is a label that creates for us when we initialize s repo
+
+HEAD is another label that git creates for us when we creat our first commit
+
+HEAD is *not* a branch
+
+# creates
