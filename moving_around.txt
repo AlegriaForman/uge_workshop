@@ -1,6 +1,3 @@
-# Hidden folder where tgithe staging area and commits live
-.git/
-
 # a cool fish shortcut for list files
 ll
 
