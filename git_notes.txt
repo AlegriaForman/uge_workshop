@@ -7,3 +7,7 @@ HEAD is another label that git creates for us when we creat our first commit
 HEAD is *not* a branch
 
 # creates
+
+git-notes branch for pull requests comparison from master.
+
+This is a test to compare from master to branch for the pull request exercise.
